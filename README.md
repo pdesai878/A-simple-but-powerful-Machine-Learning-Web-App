@@ -1,4 +1,4 @@
-# Mushroom Dataset ( Binary Classification Web-Application )
+#  ( Binary Classification Web-Application )
 <h3>
 <table>
   <tr>
