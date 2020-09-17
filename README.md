@@ -2,7 +2,7 @@
 <h3>
 <table>
   
-  <th> Requirements: </th>
+  <td> Requirements: </td>
   <tr>
   <tr> streamlit </tr>
   <tr> pandas </tr>
