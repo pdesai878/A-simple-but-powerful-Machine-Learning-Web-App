@@ -1,8 +1,9 @@
 # Mushroom Dataset ( Binary Classification Web-Application )
 <h3>
 <table>
-  <td>
+  
   <th> Requirements: </th>
+  <td>
   <tr> streamlit </tr>
   <tr> pandas </tr>
   <tr> numpy </tr>
