@@ -3,12 +3,11 @@
 <table>
   
   <th> Requirements: </th>
-  <td>
+  <tr>
   <tr> streamlit </tr>
   <tr> pandas </tr>
   <tr> numpy </tr>
   <tr> scikit-learn</tr>
-  <td>
     </table>
   </h3>
     
