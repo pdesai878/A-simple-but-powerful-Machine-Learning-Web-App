@@ -8,10 +8,12 @@
   <td> pandas </td>
   <td> numpy </td>
   <td> scikit-learn</td>
+  <td> matplotlib </td>
   </tr>
     </table>
   </h3>
   <hr>
+  App deployed on heroku (PAAS)<br>
   link: https://ml-binaryclassification.herokuapp.com/
   <hr>
   <img src="https://github.com/pdesai878/A-simple-but-powerful-Machine-Learning-Web-App-for-Binary-Classification-/blob/master/images/img1.png"><br><br><hr>
